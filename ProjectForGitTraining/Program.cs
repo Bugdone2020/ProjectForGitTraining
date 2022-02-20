@@ -8,6 +8,7 @@ namespace ProjectForGitTraining
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("some change 1 in Master branch");
+            Console.WriteLine("some change 2 in Master branch");
         }
     }
 }
