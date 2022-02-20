@@ -11,4 +11,4 @@ namespace ProjectForGitTraining
             Console.WriteLine("some change 2 in Master branch");
         }
     }
-}
+} 
